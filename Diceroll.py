@@ -1,3 +1,4 @@
+#this is a python proejct
 #importing module for random number generation
 import random
 
